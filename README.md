@@ -7,4 +7,6 @@ createGraph : creates the graph by connecting reachable nodes with edges represe
 
 graphSearch: A* search on the created graph for optimal path.
 
+simulation: visualization of resulting path
+
 Refer to project report for details.
